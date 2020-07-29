@@ -9,7 +9,7 @@
       <p><b>地址：昆明市呈贡区吴家营街道云南大学呈贡校区，软件学院</b></p>
     </td>
     <td width="25%">
-      <img src="https://github.com/Codetroubler/haihchen0.github.com/blob/master/宝儿姐.png" width="100%">    
+      <img src="宝儿姐.jpg" width="100%">    
     </td>
   </tr>
 </table>
