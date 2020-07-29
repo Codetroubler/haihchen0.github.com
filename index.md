@@ -9,12 +9,14 @@
       <p><b>地址：昆明市呈贡区吴家营街道云南大学呈贡校区，软件学院</b></p>
     </td>
     <td width="25%">
-      <img src="https://github.com/Codetroubler/haihchen0.github.com/blob/master/宝儿姐.png" width="100%">      % 插入证件照的代码
+      <img src="https://github.com/Codetroubler/haihchen0.github.com/blob/master/宝儿姐.png" width="100%">    
     </td>
   </tr>
 </table>
 
 ### 荣誉奖励
+- GPA 3.72/4.0 (专业排名3/116）
+- 当前综合测评90.6 (专业排名1/116)
 - 云南大学一等奖学金
 - 云南大学优秀学生
 - 云南大学软件学院优秀学生干事
