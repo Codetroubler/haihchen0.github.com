@@ -1,2 +1,2 @@
 # haihchen0.github.com
-# haihchen0的个人简介
+# CH2的个人简介
