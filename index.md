@@ -1,4 +1,4 @@
-<table border="0">
+<table border="1">
   <tr>
     <td width="75%">
       <h1>陈洪海</h1>
@@ -9,7 +9,7 @@
       <p><b>地址：昆明市呈贡区吴家营街道云南大学呈贡校区，软件学院</b></p>
     </td>
     <td width="25%">
-      <img src="https://github.com/Codetroubler/haihchen0.github.com/blob/master/%E5%AE%9D%E5%84%BF%E5%A7%90.png" width="100%">      % 插入证件照的代码
+      <img src="https://github.com/Codetroubler/haihchen0.github.com/blob/master/宝儿姐.png" width="100%">      % 插入证件照的代码
     </td>
   </tr>
 </table>
