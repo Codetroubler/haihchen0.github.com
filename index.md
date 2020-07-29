@@ -9,7 +9,7 @@
       <p><b>地址：昆明市呈贡区吴家营街道云南大学呈贡校区，软件学院</b></p>
     </td>
     <td width="25%">
-      <img src="/宝儿姐.png" width="100%">      % 插入证件照的代码
+      <img src="https://github.com/Codetroubler/haihchen0.github.com/blob/master/%E5%AE%9D%E5%84%BF%E5%A7%90.png" width="100%">      % 插入证件照的代码
     </td>
   </tr>
 </table>
@@ -23,6 +23,8 @@
 - 通过华为HCIA-AI认证
 - 主持省级大创项目“古滇之遗-基于AI的交互式云南非遗体验平台”
 - 互联网加大学生创新创业大赛校级铜奖
+- “国才杯”全国英语阅读大赛校级三等奖
+- “国才杯”全国英语写作大赛校级三等奖
 
 ### 项目研究
 - 强化学习
