@@ -29,5 +29,5 @@
 - “国才杯”全国英语写作大赛校级三等奖
 
 ### 项目研究
-- 强化学习
-- 演化博弈
+- model-based Reinforcement Learning
+- 非完全信息演化博弈
